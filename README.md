@@ -33,6 +33,7 @@
 | [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches) | Deep-dive API security series — OWASP API Top 10 coverage, BOLA, JWT attacks, GraphQL testing, full methodology |
 | [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) | Real, publicly-disclosed bug bounty reports broken into reproducible checklists |
 | [DarkWeb-From-The-Trenches](https://github.com/dheeraj-jayaswal/DarkWeb-From-The-Trenches) | Threat intelligence & dark web OSINT methodology — credential leak monitoring, ransomware tracking, pre-engagement TI |
+| [Pentest-Engagement-Playbook](https://github.com/dheeraj-jayaswal/Pentest-Engagement-Playbook) | Consultant-grade scoping, ROE, severity rationale, and executive reporting templates — the client-facing operational playbook behind an engagement |
 
 ---
 
